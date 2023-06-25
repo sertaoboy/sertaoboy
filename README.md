@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/0056)
 
-![Sertaoboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sertaoboy&show_icons=true&theme=dark)
+
 
 ### Tecnologias:
 - SOs 
