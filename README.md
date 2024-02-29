@@ -7,7 +7,7 @@
 
 <h1 align="center">Ola, sou o Raul. Bem-vindo ao meu perfil! || Hi 👋, I'm Raul, greetings and welcome to my profile! :D</h1>
 <h3 align="center">Student and IT enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sertaoboy&label=Profile%20views&color=0e75b6&style=flat" alt="sertaoboy" /> </p>
 
