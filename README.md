@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently studying Development and Software Analysis at University of Fortaleza, Brasil. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am search for first job experience =)
+  - 🔭 I am in search for first job experience =)
   - - 📫 How to reach me **raul.dev@hotmail.com**
 </p>
 
