@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Raul</h1>
+<h1 align="center">Hi 👋, I'm Raul, greetings and welcome to my profile! :D</h1>
 <h3 align="center">Student and IT enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sertaoboy&label=Profile%20views&color=0e75b6&style=flat" alt="sertaoboy" /> </p>
