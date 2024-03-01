@@ -6,6 +6,8 @@
 
 <!-- Presentation -->
 <p>
+  $ whoami
+  
   Hi 👋, I'm Raul! A student and IT enthusiast from Brazil.
 
   - 🌱 I’m currently studying Development and Software Analysis at University of Fortaleza, Brasil. <img align="center" alt="html5" height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_unifor_3.png" />
