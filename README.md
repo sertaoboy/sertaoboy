@@ -12,7 +12,7 @@
 
   - 🌱 I’m currently studying Development and Software Analysis at University of Fortaleza, Brasil. <img align="center" alt="html5" height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_unifor_3.png" />
 
-  - 🔭 I am in search for first job opportunity =)
+  - 🔭 I am in search for first a job opportunity =)
   - - 📫 How to reach me **raul.dev@hotmail.com**
 </p>
 
