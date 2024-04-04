@@ -24,7 +24,7 @@
 <!-- GithubStats -->
 
 ![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sertaoboy&show_icons=true&theme=github_dark)
-![Raul GitHub stats](https://github-readme-stats.vercel.app/api?username=sertaoboy&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sertaoboy&show_icons=true&theme=github_dark)](https://github.com/sertaoboy/github-readme-stats)
 
 
 <!-- Portfolio -->
