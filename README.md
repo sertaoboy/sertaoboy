@@ -8,7 +8,7 @@
 <p>
   $ whoami
   
-  Hi 👋, I'm Raul! A student and IT enthusiast from Brazil. Greetings and welcome to my github profile!
+  Hi 👋, I'm Raul! A student and IT enthusiast from Brazil. Greetings and welcome to my personal github profile!
 
   - 🌱 I’m currently studying Development and Software Analysis at University of Fortaleza, Brasil. [<img align="center" alt="Logo da Universidade de Fortaleza" height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_unifor_3.png">](https://www.unifor.br)
 
