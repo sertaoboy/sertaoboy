@@ -46,5 +46,5 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/docker-logo-black-and-white.png" alt="docker" width="40" height="40"/> </a> <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/linux/linux_PNG5.png" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/mariadb-logo.png" alt="mariadb" width="40" height="25"/> </a>
+<p align="left"> <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/linux/linux_PNG5.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/docker-logo-black-and-white.png" alt="docker" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/mariadb-logo.png" alt="mariadb" width="40" height="25"/> </a>
   <!-- Skills: Libraries -->
