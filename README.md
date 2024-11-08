@@ -40,14 +40,11 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/genzouw.com/wp-content/uploads/2019/02/kisspng-bash-shell-command-line-interface-ls-5ae067b4a53005.9908964615246560526766.png?resize=100%2C100&ssl=1" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/docker-logo-black-and-white.png" alt="docker" width="40" height="40"/> </a> <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/linux/linux_PNG5.png" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/mariadb-logo.png" alt="mariadb" width="40" height="25"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/nodejs-icon-logo-black-and-white.png" alt="nodejs" width="25" height="33"/> </a> 
-  
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/docker-logo-black-and-white.png" alt="docker" width="40" height="40"/> </a> <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://pngimg.com/uploads/linux/linux_PNG5.png" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/mariadb-logo.png" alt="mariadb" width="40" height="25"/> </a>
   <!-- Skills: Libraries -->
